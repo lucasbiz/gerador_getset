@@ -1,5 +1,7 @@
 # olá, basta colar esse código onde preferir ou executá-lo 
 # neste arquivo mesmo!
+# ele gerará um print com os getter e setters digitados no input, basta
+# copiar e colar no seu código
 
 def gerador_getset():
     nome_das_propriedades = input('Digite os nomes dos parametros a serem feitos os getter e setters (separados por espaço apenas): ')
